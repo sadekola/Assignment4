@@ -1,3 +1,16 @@
+/*********************************************************************************
+*  WEB700 – Assignment 04
+*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part 
+*  of this assignment has been copied manually or electronically from any other source 
+*  (including 3rd party web sites) or distributed to other students.
+* 
+*  Name: Samuel Adekola Student ID 130895220______ Date: _3/9/2024__
+*
+*  Online (Cycliic) Link: ________________________________________________________
+*
+********************************************************************************/ 
+
+
 var HTTP_PORT = process.env.PORT || 8080;
 var express = require("express");
 var app = express();
